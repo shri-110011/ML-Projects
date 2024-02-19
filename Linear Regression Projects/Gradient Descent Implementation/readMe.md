@@ -8,10 +8,9 @@ been visualized using various plots listed below:
 3. Contour plots depicting the trajectory of the path taken by Gradient Descent
 in its quest to search the parameters in the loss terrain.
 
-Finally, I have compared the results obtained by different variations of the Gradient Descent namely Batch Gradient Descent, Stochastic Gradient Descent,
-and Mini-Batch Gradient Descent.
+Finally, I have compared the results obtained by different variations of the Gradient Descent.
 
-## Implementation overview:
+## Implementation Overview:
 
 The main function to get the gradient descent result is:
 
@@ -55,7 +54,7 @@ Functions for visualization:
 **visualize_GD_result(gd_result)**:
 This method creates a loss vs iteration plot and a plot containing the fitted line obtained using the Gradient Descent.
 
-gd_result: The object returned by the fit_best_line_using_GD().
+**gd_result**: The object returned by the fit_best_line_using_GD().
 
 **show_path_took_by_gd(w0_values, w1_values, loss_terrain, gd_result, smooth_trajectory=False)**:
 This function creates a contour plot representing the loss terrain. It 
