@@ -1,4 +1,4 @@
-## BasketBuddy: Mining Patterns in Mall Shopping:
+## BasketBuddy: Mining Patterns in Mall Shopping
 
 **Dataset Overview:**
 Market_Basket_Optimisation dataset from Kaggle. The dataset has 7501 rows and 20 columns. Each row represents a transaction which contains the list of items purchased in that transaction. 

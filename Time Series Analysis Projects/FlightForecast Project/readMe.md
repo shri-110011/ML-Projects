@@ -1,4 +1,4 @@
-## FlightForecast: Navigating Time Trends in Airline Passengers:
+## FlightForecast: Navigating Time Trends in Airline Passengers
 
 **Dataset Overview:**
 Airline Passengers dataset from Kaggle. The dataset has 144 rows and 2 columns. The first column 'Month' contains the month and year information and the second column 'Passengers' contains the number of Passengers who travelled in that Airline for that month. We have 12 Years of data starting from 1 Jan 1949 to 31 Dec 1960.
