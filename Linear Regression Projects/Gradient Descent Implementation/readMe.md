@@ -1,7 +1,6 @@
 ## About the project:
 
-This project shows the implementation of different flavors of the Gradient Descent algorithm namely Batch Gradient Descent, STochastic, Mini-Batch 
-Gradient Descent. I have used this implementation to solve a regression 
+This project shows the implementation of different flavors of the Gradient Descent algorithm namely **Batch Gradient Descent**, **Stochastic Gradient Descent**, **Mini-Batch Gradient Descent**. I have used this implementation to solve a regression 
 problem. The obtained result from the Gradient Descent algorithm has also 
 been visualized using various plots listed below:
 1. Loss vs Iterations
