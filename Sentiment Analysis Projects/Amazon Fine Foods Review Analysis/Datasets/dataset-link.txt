@@ -1,0 +1,2 @@
+Link for database.sqlite which contains Amazon Fine Foods Review data:
+https://drive.google.com/file/d/1Ccw880DbpAxuCR_htFZ9ex32Xmcr1ASh/view?usp=drive_link
