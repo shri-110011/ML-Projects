@@ -8,7 +8,7 @@ To systematically find the association rules b/w itemsets **(i.e. X => Y)**.
 
 **Approach:**
 1. Pre-processed the dataset to remove all the NaN values from each row.
-2. Identified the unique items from all the transactions along with their incident count
+2. Identified the unique items from all the transactions along with their incident count.
 3. Visualized the Top 36 frequently occurring items using a **TreeMap**.
 4. Generated the frequently occurring itemsets using the **Apriori Algorithm**.
 5. Identified 95 association rules using the frequent itemsets based on the **Confidence metric**.
